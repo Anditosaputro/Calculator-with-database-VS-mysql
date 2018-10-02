@@ -1,0 +1,26 @@
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\bin\Debug\Calculator (Homework 1).exe.config
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\bin\Debug\Calculator (Homework 1).exe
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\bin\Debug\Calculator (Homework 1).pdb
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).csprojAssemblyReference.cache
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\obj\Debug\Calculator__Homework_1_.Form1.resources
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\obj\Debug\Calculator__Homework_1_.Properties.Resources.resources
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).csproj.GenerateResource.cache
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).csproj.CoreCompileInputs.cache
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).exe
+D:\kuliah\NCU\CSIE\lab\kalkulator\Calculator (Homework 1)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).pdb
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\bin\Debug\Calculator (Homework 1).exe.config
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\bin\Debug\Calculator (Homework 1).exe
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\bin\Debug\Calculator (Homework 1).pdb
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).csprojAssemblyReference.cache
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\obj\Debug\Calculator__Homework_1_.Form1.resources
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\obj\Debug\Calculator__Homework_1_.Properties.Resources.resources
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).csproj.GenerateResource.cache
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).csproj.CoreCompileInputs.cache
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).exe
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).pdb
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\bin\Debug\MySql.Data.dll
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\bin\Debug\MySql.Web.dll
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\bin\Debug\Google.Protobuf.dll
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\bin\Debug\MySql.Data.xml
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\bin\Debug\MySql.Web.xml
+D:\kuliah\NCU\HCI Lab\Homework 2 (Database Calculator)\Calculator (Homework 1)\obj\Debug\Calculator (Homework 1).csproj.CopyComplete
